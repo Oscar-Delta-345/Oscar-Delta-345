@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Omer
 
-💻 **Aspiring Software Engineer** | 🚀 Passionate about coding, networking, and real-world problem-solving  
+💻 ** 17 y.o Aspiring Software Engineer** | 🚀 Passionate about coding, networking, and real-world problem-solving  
 🎓 Learning Computer Science at **Herzog High School**
 
 ---
@@ -21,9 +21,9 @@
 ---
 
 ## 🚀 Highlights
-- 🏆 **Hackathon Winner** — 1st place at MANPOWER Group Hackathon (UI design & pitching)  
-- 🌍 **CTF Designer** —  a 10-hour W.I.P Capture The Flag with real-world actors & networking puzzles  
-- 📡 **Space Projects** — co-founded SANDY & LOM, winning the Ilan Ramon Space Olympics twice  
+- 🏆 **Hackathon Winner** - 1st place at MANPOWER Group Hackathon (UI design & pitching)  
+- 🌍 **CTF Designer** - a 10-hour W.I.P Capture The Flag with real-world actors & networking puzzles  
+- 📡 **Space Projects** - co-founded SANDY & LOM, winning the Ilan Ramon Space Olympics twice  
 
 ---
 
